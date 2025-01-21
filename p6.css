@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box1{
+    border:  rgb(220, 233, 165)  solid ;
+    width: 200px;
+    height: 200px;
+    background-color:rgb(220, 233, 165) ;
+    border-radius:100px ; 
+    display: inline-block;
+    position: absolute;
+    top: 40%; right: 30%;
+}
+.box2{
+    border:  rgb(21, 0, 73 ) solid ;
+    width: 200px;
+    height: 200px;
+    background-color:rgb(21, 0, 73) ;
+    border-radius:100px ;
+    display: inline-block;
+    position: absolute;
+    top: 40%; right: 34%;
+}
+body{
+    background-color:rgb(21, 0, 73) ;
+}
+    
