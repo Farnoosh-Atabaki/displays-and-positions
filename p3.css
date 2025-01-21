@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    border: blue solid;
+    background-color: blue;
+    max-width: max-contentS;
+    height: 100px;
+    position: sticky;
+    top: 0px;
+
+}
