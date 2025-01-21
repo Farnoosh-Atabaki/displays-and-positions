@@ -1,0 +1,21 @@
+.box1{
+    border: cadetblue solid;
+    background-color: cadetblue;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    
+
+}
+
+.box2{
+    border: orangered solid;
+    background-color: orangered;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    top: 100px; right: 300px; 
+    
+
+}
