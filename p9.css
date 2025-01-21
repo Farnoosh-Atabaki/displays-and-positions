@@ -1,0 +1,289 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.box1{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 500px; left: 500px;
+
+
+}
+.box2{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 450px; left: 500px;
+
+
+}
+.box3{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 400px; left: 500px;
+
+
+}
+.box4{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 350px; left: 500px;
+
+
+}
+.box5{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 300px; left: 500px;
+
+
+}
+.box6{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 450px; left: 450px;
+
+
+}
+.box7{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 400px; left: 450px;
+
+
+}
+
+.box8{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 350px; left: 450px;
+
+
+}
+.box9{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 300px; left: 450px;
+
+
+}
+.box10{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 250px; left: 450px;
+
+}
+
+.box12{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 400px; left: 400px;
+
+
+}
+.box13{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 350px; left: 400px;
+
+
+}
+.box14{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 300px; left: 400px;
+}
+.box15{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 250px; left: 400px;
+}
+.box16{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 350px; left: 350px;
+}
+.box17{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 300px; left: 350px;
+}
+.box18{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 450px; left: 550px;
+}
+.box19{
+    border: red solid;
+    background-color:red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 400px; left: 550px;
+}
+.box20{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 350px; left: 550px;
+}
+.box21{
+    border: red solid;
+    background-color:red;
+      width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 300px; left: 550px;
+}
+.box22{
+    border: red solid;
+    background-color:red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 250px; left: 550px;
+}
+.box23{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 250px; left: 600px;
+}
+.box24{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 300px; left: 600px;
+}
+.box25{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 350px; left: 600px;
+}
+.box26{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 400px; left: 600px;
+}
+.box27{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 300px; left: 650px;
+}
+.box28{
+    border: red solid;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 350px; left: 650px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
